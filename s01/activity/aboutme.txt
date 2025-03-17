@@ -1,2 +1,5 @@
 First name: Ricardo 
 Last name: Liera
+
+Motivation: 
+As a full-stack developer, you are the bridge between creativity and functionality, mastering both the front-end's visual appeal and the back-end's logic and data flow.

@@ -5,4 +5,4 @@ Motivation:
 As a full-stack developer, I'm the bridge between creativity and functionality, mastering both the front-end's visual appeal and the back-end's logic and data flow.
 
 Experience:
-As a full-stack developer, My experience is your greatest asset. Every project you've built, every bug you've debugged, and every challenge you've faced has shaped you into a stronger, more capable developer. 
+As a full-stack developer, My experience is your greatest asset. Every project I've built, every bug I've debugged, and every challenge I've faced has shaped you into a stronger, more capable developer. 
